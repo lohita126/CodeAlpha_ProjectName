@@ -115,7 +115,5 @@ Python, PyTorch, TensorFlow, REST API frameworks, NLP pipelines, MIDI audio libr
 - Hosted APIs and cloud deployment (AWS / GCP)  
 - Support for more use cases (e.g., voice chatbot, multi-genre music)
 
----
 
-## 📁 Folder Structure (Example)
 
